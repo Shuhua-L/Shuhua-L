@@ -1,4 +1,4 @@
-## <div align="center">Hi there! I'm Shuhua Liu 👋</div>  
+# <div align="center">Hi there! I'm Shuhua Liu 👋</div>  
   
 
 - 🌱 Currently learning TypeScript and Docker  
