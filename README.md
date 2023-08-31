@@ -1,13 +1,12 @@
 # <div align="center">Hi there! I'm Shuhua Liu 👋</div>  
-  
 
-- 🌱 Currently learning TypeScript and Docker  
-  
+- 🌱 Currently working on **[READMExpress](https://readmexpress.vercel.app/)**, an easy-to-use README builder
+
+- ⚡ All of my projects are available at **[Shuhua.dev](https://www.shuhua.dev/)**
 
 - 📍 Based in Boston, MA  
-  
 
-- 😄 Pronouns: she/her  
+- 😄 Pronouns: She/Her  
   
 
 <br/>  
@@ -72,4 +71,5 @@
   
 </div>  
 
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuhua-l&label=Profile%20views&color=0e75b6&style=flat-square" alt="shuhua-l" /> </p>-->
 
