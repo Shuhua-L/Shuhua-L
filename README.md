@@ -71,5 +71,5 @@
   
 </div>  
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuhua-l&label=Profile%20views&color=0e75b6&style=flat-square" alt="shuhua-l" /> </p>-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shuhua-l&label=Profile%20views&color=44475a&style=for-the-badge" alt="shuhua-l" /> </p>
 
