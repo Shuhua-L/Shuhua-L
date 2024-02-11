@@ -1,7 +1,5 @@
 # <div align="center">Hi there! I'm Shuhua Liu 👋</div>  
 
-- 🌱 Currently working on **[READMExpress](https://readmexpress.vercel.app/)**, an easy-to-use README builder
-
 - ⚡ All of my projects are available at **[Shuhua.dev](https://www.shuhua.dev/)**
 
 - 📍 Based in Boston, MA  
